@@ -1,0 +1,7 @@
+[submodule "themes/raditian-free-hugo-theme"]
+	path = themes/raditian-free-hugo-theme
+	url = https://github.com/radity/raditian-free-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:ji1215/ji1215.github.io.git
+	branch = master
