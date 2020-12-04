@@ -1,7 +1,7 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Andreas."
+  title: "지은빈."
   subtitle: "Front-End Developer"
   description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
   image:
@@ -51,14 +51,11 @@ about:
   enable: true
   title: "Who am I?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    최근에 관심을 가지게 된 것은 골프입니다. 좀처럼 비거리가 길어지지 않아 고심하고 있습니다.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    읽은 책 중 [연어]에 이런 말이 있습니다. “나는 여기 있음으로 해서 너의 배경이 되는 거야 “,
+    스스로 빛을 내는 별은 없듯이 저는 주위 사람들과 함께하고 같이 빛날 수 있는 사람입니다.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -68,24 +65,42 @@ about:
     x: "img/who-am-i/ebjee.jpg"
     _2x: "img/who-am-i/ebjee.jpg"
 
+#certificate
+certificate:
+  enable: true
+  title: "Certificate"
+  items:
+    - university: "정보처리기사"
+      year: "2019.05.22"
+      degree: "산업인력공단 "
+
+    - university: "OCJP"
+      year: "2013.07.10"
+      degree: "ORACLE"
+
 # education
 education:
   enable: true
   title: "Education"
   items:
-    - university: "University of Waterloo"
-      year: "2012-2017"
-      degree: "Bachelor of Applied Science (BASc), Electrical Engineering"
+    - university: "학점은행제"
+      year: "2018-2020"
+      degree: "컴퓨터공학 전공 "
 
-    - university: "Sir John A Macdonald CI"
+    - university: "연성대학교"
+      year: "2012-2014"
+      degree: "인터넷정보학 전공"
+
+    - university: "관양고등학교"
       year: "2009-2012"
-      degree: "High School Diploma, Sciences, Math, Computer & Business Studies"
+      degree: "-"
 
 # experience
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  description: "5년 이상 웹사이트와 기업 내의 솔루션 사이트를 개발한 Front-End Developer!"
+  subDescription: "html, javascript, jquery, react.js, vue.js, ASP, JAVA, JSP, SQL..."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -96,17 +111,17 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "Front-End Developer (연구원)"
+      company: "(주)누베스브릿지"
+      duration: "Feb 2020 - Dec 2020"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
+    - title: "Front-End Developer (연구원)"
+      company: "(주)위더스플래닛"
+      duration: "Mar 2010 - Nov 2011"
 
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
+    - title: "Front-End Developer (대리)"
+      company: "(주)기원테크"
+      duration: "Apr 2014 - Jul 2017"
 
 # Client & Work
 client_and_work:
@@ -145,14 +160,16 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+    - title: "KT - 과제, HCMP "
+      titleSub: "Hybrid Cloud Management Platform"
+      description: "VM 생성 및 VNC, IP접속 제어, 스냅샷, 백업 복구 등 다양한 기능을 관리자 또는 사용자가 쉽게 사용 할 수 있게 관리 페이지를 개발"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
+        enable: false
       image:
-        x: "img/works/radity-finance.jpg"
+        x: "img/web/nubes-vmcard.png"
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
@@ -162,6 +179,7 @@ client_and_work:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
+        enable: false
       image:
         x: "img/works/swissfintech.jpg"
         _2x: "img/works/swissfintech@2x.jpg"
@@ -173,6 +191,7 @@ client_and_work:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
+        enable: false
       image:
         x: "img/works/robo-advisor.jpg"
         _2x: "img/works/robo-advisor@2x.jpg"
