@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31daed48-5b48-4b85-bbfa-5578e5d4dbe3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/raditian-free-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/raditian-free-hugo-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/raditian-free-hugo-theme/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/raditian-free-hugo-theme/data/homepage.yml" afterDir="false" />
     </list>
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/homepage.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+            <state relative-caret-position="437">
+              <caret line="65" column="51" lean-forward="true" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -94,13 +95,20 @@
             <path>
               <item name="record" type="b2602c69:ProjectViewProjectNode" />
               <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="record" type="b2602c69:ProjectViewProjectNode" />
               <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="raditian-free-hugo-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="record" type="b2602c69:ProjectViewProjectNode" />
+              <item name="record" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="who-am-i" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,12 +182,12 @@
       <option name="presentableId" value="Default" />
       <updated>1607041190636</updated>
       <workItem from="1607041194501" duration="243000" />
-      <workItem from="1607041458462" duration="1189000" />
+      <workItem from="1607041458462" duration="1577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1432000" />
+    <option name="totallyTimeSpent" value="1820000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3281" y="15" width="1815" height="982" extended-state="0" />
@@ -234,10 +242,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/raditian-free-hugo-theme/static/img/who-am-i/user-picture@2x.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/raditian-free-hugo-theme/static/img/who-am-i/user-picture.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/homepage.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        <state relative-caret-position="437">
+          <caret line="65" column="51" lean-forward="true" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
         </state>
       </provider>
     </entry>
