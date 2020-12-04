@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "지은빈."
   subtitle: "Front-End Developer"
-  description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
+  description: "-"
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -173,33 +173,33 @@ client_and_work:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-        enable: false
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
-        enable: false
-      image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
-      is_even: true
+#    - title: "Swiss Fintech Website"
+#      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+#      button:
+#        icon: "icon-arrow-right"
+#        btnText: "Case Study"
+#        URL: "#"
+#        enable: false
+#      image:
+#        x: "img/works/swissfintech.jpg"
+#        _2x: "img/works/swissfintech@2x.jpg"
+#      is_even: false
+#
+#    - title: "Robo Advisor"
+#      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+#      button:
+#        icon: "icon-arrow-right"
+#        btnText: "Case Study"
+#        URL: "#"
+#        enable: false
+#      image:
+#        x: "img/works/robo-advisor.jpg"
+#        _2x: "img/works/robo-advisor@2x.jpg"
+#      is_even: true
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   items:
     - name: "Daniel Jordan"
@@ -234,13 +234,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+41 (44) 505 10 99"
+    number: "-"
   email:
     title: "Email"
-    email: '<a href="mailto:team@radity.com">team@radity.com</a>'
+    email: '<a href="mailto:team@radity.com">777jieb@gmail.com</a>'
   address:
     title: "Address"
-    address: "Radity GmbH<br />Max-Bill-Platz 5, 8050 Zürich"
+    address: "-"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
