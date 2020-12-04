@@ -2,151 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31daed48-5b48-4b85-bbfa-5578e5d4dbe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/homepage.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/base-foot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/client-and-work.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/education.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/experience.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/head_custom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/newsletter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/showcase.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/partials/testimonial.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/animation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/rad-icons-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/rad-icons-embedded.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/rad-icons-ie7-codes.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/rad-icons-ie7.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/rad-icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/autumn-moon/AutumnMoon.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/autumn-moon/AutumnMoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/autumn-moon/AutumnMoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/autumn-moon/AutumnMoon.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-BlackItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-BlackItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-BoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-BoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraBoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraBoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraLight-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraLight-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraLightItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ExtraLightItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Italic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Italic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-LightItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-LightItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-MediumItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-MediumItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-SemiBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-SemiBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-SemiBoldItalic.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-SemiBoldItalic.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Thin-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-Thin-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ThinItalic-BETA.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-ThinItalic-BETA.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-italic.var.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter-upright.var.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/Inter.var.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/inter/inter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/rad-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/rad-icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/rad-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/rad-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/rad-icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/asgardia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/asgardia@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/earth-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/earth-2@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/goldline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/goldline@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/kanba.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/kanba@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/zoo-tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/zoo-tv@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/ztos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/clients/ztos@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/contact-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/contact-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/design-and-code-radity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/design-and-code-radity.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/design-and-code-radity@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/logo-black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/logo-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/logo-dark@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/mail-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/general/user-smile-fill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/showcase/showcase-mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/showcase/showcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/showcase/showcase@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/antonio-willis.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/antonio-willis@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/daniel-jordan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/daniel-jordan@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/jonathan-peters.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/testimonials/jonathan-peters@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/who-am-i/ebjee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/who-am-i/user-picture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/who-am-i/user-picture@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/radity-finance.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/radity-finance@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/robo-advisor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/robo-advisor@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/swissfintech.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/works/swissfintech@2x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/fontfaceobserver.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/jquery-3.3.1.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/lazy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/lozad.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/library/smooth-scroll.polyfills.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/rad-animations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/sticky-header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/subscription.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/bootstrap/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/jQuery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/shuffle/shuffle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/themify-icons/fonts/themify.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/themify-icons/fonts/themify.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/themify-icons/fonts/themify.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/themify-icons/fonts/themify.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugins/themify-icons/themify-icons.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/raditian-free-hugo-theme" beforeDir="false" afterPath="$PROJECT_DIR$/themes/raditian-free-hugo-theme" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/raditian-free-hugo-theme/data/homepage.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/raditian-free-hugo-theme/data/homepage.yml" afterDir="false" />
     </list>
@@ -170,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/homepage.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+            <state relative-caret-position="456">
+              <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -239,13 +94,13 @@
             <path>
               <item name="record" type="b2602c69:ProjectViewProjectNode" />
               <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="record" type="b2602c69:ProjectViewProjectNode" />
               <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="raditian-free-hugo-theme" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,12 +174,12 @@
       <option name="presentableId" value="Default" />
       <updated>1607041190636</updated>
       <workItem from="1607041194501" duration="243000" />
-      <workItem from="1607041458462" duration="797000" />
+      <workItem from="1607041458462" duration="1189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1040000" />
+    <option name="totallyTimeSpent" value="1432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3281" y="15" width="1815" height="982" extended-state="0" />
@@ -381,8 +236,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/homepage.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="67" column="30" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+        <state relative-caret-position="456">
+          <caret line="60" column="35" lean-forward="true" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
         </state>
       </provider>
     </entry>
