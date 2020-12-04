@@ -1,4 +1,6 @@
-baseURL = "https://https://ji1215.github.io/"
+#baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://ji1215.github.io/"
+#https://ji1215.github.io/img/who-am-i/user-picture.png
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
