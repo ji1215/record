@@ -163,6 +163,7 @@ client_and_work:
     - title: "KT - 과제, HCMP "
       titleSub: "Hybrid Cloud Management Platform"
       description: "VM 생성 및 VNC, IP접속 제어, 스냅샷, 백업 복구 등 다양한 기능을 관리자 또는 사용자가 쉽게 사용 할 수 있게 관리 페이지를 개발"
+      subDescription: "React.js, d3.js, Go, sql(MariaDB)"
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -170,32 +171,38 @@ client_and_work:
         enable: false
       image:
         x: "img/web/nubes-vmcard.png"
-        _2x: "img/works/radity-finance@2x.jpg"
+        _2x: "img/web/nubes-vmcard.png"
       is_even: true
 
-#    - title: "Swiss Fintech Website"
-#      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-#      button:
-#        icon: "icon-arrow-right"
-#        btnText: "Case Study"
-#        URL: "#"
-#        enable: false
-#      image:
-#        x: "img/works/swissfintech.jpg"
-#        _2x: "img/works/swissfintech@2x.jpg"
-#      is_even: false
-#
-#    - title: "Robo Advisor"
-#      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-#      button:
-#        icon: "icon-arrow-right"
-#        btnText: "Case Study"
-#        URL: "#"
-#        enable: false
-#      image:
-#        x: "img/works/robo-advisor.jpg"
-#        _2x: "img/works/robo-advisor@2x.jpg"
-#      is_even: true
+    - title: "서울대 TEPS"
+      titleSub: ""
+      url: "<a target='_blank' href='https://www.teps.or.kr/'>TEPS</a>"
+      description: "고사본부장 및 현장접수 담당자 사이트 개발"
+      subDescription: "ASP, jQuery, sql(Oracle)"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+        enable: false
+      image:
+        x: "img/web/teps.PNG"
+        _2x: "img/web/teps.PNG"
+      is_even: false
+
+    - title: "대한의사협회"
+      titleSub: ""
+      url: "<a target='_blank' href='http://www.kma.org/'>KMA</a>"
+      description: "게시판 개발 및 전체 페이지 테스트 및 오류 수정"
+      subDescription: "ASP, jQuery, sql(MSSQL)"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+        enable: false
+      image:
+        x: "img/web/KMA.PNG"
+        _2x: "img/web/KMA.PNG"
+      is_even: true
 
 # testimonial
 testimonial:

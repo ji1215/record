@@ -29,51 +29,66 @@
       class="row row--padded rad-animation-group rad-fade-down {{ if .is_even }}flex-column-reverse flex-md-row{{ end }}"
     >
       {{ if .is_even }}
-      <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
-        <h3>{{ .title }}</h3>
-        <h5>{{ .titleSub }}</h5>
-        <p class="lead">
-          {{ .description }}
-        </p>
+            <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+              <h3>{{ .title }}</h3>
+              <h5>{{ .titleSub }}</h5>
+              <p class="lead">
+                {{ .url | safeHTML }}
+              </p>
+              <p class="lead">
+                {{ .description }}
+              </p>
+              <div class="experience">
+                <div class="experience__title">🙂 사용 기술</div>
+                <div class="experience__date">{{ .subDescription }}</div>
+              </div>
 
-        {{ if .Site.Data.homepage.works.button.enable }}
-          <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-            >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
-          ></a>
-        {{ end }}
-      </div>
-      <div class="col-12 col-md-7 pl-md-0 text-right">
-        <img
-          class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-          alt="{{ .title }}"
-        />
-      </div>
+              {{ if .Site.Data.homepage.works.button.enable }}
+                <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
+                  >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+                ></a>
+              {{ end }}
+            </div>
+            <div class="col-12 col-md-7 pl-md-0 text-right">
+              <img
+                class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
+                src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                data-src="{{ .image.x | absURL }}"
+                data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+                alt="{{ .title }}"
+              />
+            </div>
       {{ else }}
-      <div class="col-12 col-md-7 pl-md-0 text-right">
-        <img
-          class='lozad img-responsive {{ cond (eq ( mod $index 4) 1)  "img-clip-right-backward" "img-clip-right-forward" }}'
-          src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
-          alt="{{ .title }}"
-        />
-      </div>
-      <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
-        <h3>{{ .title }}</h3>
-        <p class="lead">
-          {{ .description }}
-        </p>
-        {{ if .Site.Data.homepage.works.button.enable }}
-          <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-            >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
-          ></a>
-        {{ end }}
-      </div>
-      {{ end }}
-    </div>
+            <div class="col-12 col-md-7 pl-md-0 text-right">
+              <img
+                class='lozad img-responsive {{ cond (eq ( mod $index 4) 1)  "img-clip-right-backward" "img-clip-right-forward" }}'
+                src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
+                data-src="{{ .image.x | absURL }}"
+                data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+                alt="{{ .title }}"
+              />
+            </div>
+            <div class="col-12 col-md-5 mt-4 mt-md-0 my-md-auto">
+              <h3>{{ .title }}</h3>
+              <h5>{{ .titleSub }}</h5>
+              <p class="lead">
+                {{ .url | safeHTML }}
+              </p>
+              <p class="lead">
+                {{ .description }}
+              </p>
+              <div class="experience">
+                <div class="experience__title">🙂 사용 기술</div>
+                <div class="experience__date">{{ .subDescription }}</div>
+              </div>
+              {{ if .Site.Data.homepage.works.button.enable }}
+                <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
+                  >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+                ></a>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
     {{ end }}
   </div>
 </section>
