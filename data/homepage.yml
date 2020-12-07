@@ -1,9 +1,9 @@
 # showcase
 showcase:
   enable: true
-  title: "지은빈."
+  title: "지은빈"
   subtitle: "Front-End Developer"
-  description: "-"
+  description: "1993"
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
@@ -177,7 +177,7 @@ client_and_work:
     - title: "서울대 TEPS"
       titleSub: ""
       url: "<a target='_blank' href='https://www.teps.or.kr/'>TEPS</a>"
-      description: "고사본부장 및 현장접수 담당자 사이트 개발"
+      description: "고사본부장 및 현장접수 담당자 사이트 개발 <br />이미 개발되어있던 홈페이지를 다시 새 단장 하면서 기존 데이터를 비교, 분석하며 개발"
       subDescription: "ASP, jQuery, sql(Oracle)"
       button:
         icon: "icon-arrow-right"
@@ -192,7 +192,7 @@ client_and_work:
     - title: "대한의사협회"
       titleSub: ""
       url: "<a target='_blank' href='http://www.kma.org/'>KMA</a>"
-      description: "게시판 개발 및 전체 페이지 테스트 및 오류 수정"
+      description: "게시판 개발 및 전체 페이지 테스트 및 오류 수정 <br />관리자 홈페이지에서 게시판 기능을 개발할 때 공통으로 소스를 사용할 수 있도록 단순화시켜 빠른 시간내에 개발이 가능하였음"
       subDescription: "ASP, jQuery, sql(MSSQL)"
       button:
         icon: "icon-arrow-right"
